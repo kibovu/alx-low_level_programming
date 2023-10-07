@@ -26,8 +26,8 @@ int main(void)
 					continue;
 				}
 
-				putchar('a');
-				putchar('b');
+				putchar(',');
+				putchar(' ');
 		}
 	}
 	putchar('\n');
