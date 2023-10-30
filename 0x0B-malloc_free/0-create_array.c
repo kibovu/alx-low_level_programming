@@ -3,11 +3,11 @@
 
 /**
  *create_array - will create an array of chars,
- *and initializes it with a specific char.
+ *	and initializes it with a specific char.
  *@size: the size of the array
  *@c: initial value
  *
- *Returns: a pointer to the array, or NULL if it fails
+ *Return: a pointer to the array, or NULL if it fails
  */
 char *create_array(unsigned int size, char c)
 {
