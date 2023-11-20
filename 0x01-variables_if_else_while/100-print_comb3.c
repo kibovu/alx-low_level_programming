@@ -16,7 +16,6 @@ int main(void)
 				if (a >=  b)
 				{
 					continue;
-					b++;
 				}
 
 				putchar(a);
